@@ -43,6 +43,10 @@ h1 {font font-weight: bolder;
 	margin: 0px:;
 }
 
+img {
+	float: left;
+}
+
 h2 {
 	font-family: serif;
 	font-size: x-small;
