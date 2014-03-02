@@ -20,7 +20,7 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
-	padding: 30px;
+	padding: 30px 30px 30 30px 30px;
 	border: 0;
 	font-size: 60%;
 	font: inherit;
