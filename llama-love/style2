@@ -35,11 +35,14 @@ body {
 	line-height: normal;
 }
 
-h1 {
-	font font-weight: bolder;
+h1 {font font-weight: bolder;
 	font-size: x-large;
-
+	font font-family: sans-serif;
+	padding: 0px;
+	padding-top: 0px;
+	margin: 0px:;
 }
+
 h2 {
 	font-family: serif;
 	font-size: x-small;
