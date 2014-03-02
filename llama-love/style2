@@ -44,7 +44,7 @@ h1 {font font-weight: bolder;
 }
 
 img {
-	float: left;
+	float: right;
 }
 
 h2 {
