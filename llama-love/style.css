@@ -20,9 +20,9 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
-	padding: 0;
+	padding: 30px;
 	border: 0;
-	font-size: 100%;
+	font-size: 60%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -32,7 +32,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: normal;
 }
 ol, ul {
 	list-style: none;
@@ -67,5 +67,40 @@ table {
     }
 
 /* END RESET */
+
+img {
+	float:left;
+	width:210px;
+	padding:10px 10px 10px 0px;
+	margin:0px 10px 10px 0px;
+}
+
+article {
+	float:left;
+	width:450px;
+	margin:40px 50px;
+	padding:60px 10px;
+}
+p {font-family: Helvetica;
+	font-size:14px;
+
+
+
+}
+h1 {padding: 5px 0px;
+	font-size:20px;
+	font-weight: bold;
+	font-family: Helvetica;
+}
+h2 {padding: 5px 0px;
+	font-size: 13px;
+	color:gray;
+	font-family: Helvetica;
+}
+
+
+
+
+
 
 

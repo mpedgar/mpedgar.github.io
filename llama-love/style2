@@ -37,43 +37,6 @@ body {
 
 }
 
-.float { float: left; }
-.clear { clear: left; }
-
-h1 {
-	font-family:'helvetica';
-	font-size:18px;
-	font-weight:bold;
-}
-
-h2 {
-	margin-top:5px;
-	font-family:'helvetica';
-	font-size:10px;
-	color:gray;
-
-}
-
-article {
-	
-	width: 300px;
-	margin-right:20px;
-	margin-top:40px;
-}
-
-p {
-	font-size: 10px;
-	font-family: 'helvetica';
-	margin-top:10px;
-}
-
-img {
-	float:left;
-	width:50%;
-	height:50%;
-	margin-right:10px;
-	margin-bottom:15px;
-}
 
 
 
