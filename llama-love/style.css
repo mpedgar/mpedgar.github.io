@@ -62,18 +62,11 @@ img {
 	margin:0px 10px 10px 0px;
 }
 
-#leftllama {
-	float: left;
-}
-
-#rightlama {
-	float: right;
-}
 
 article {
 	float:left;
 	width:450px;
-	margin:45px 55px;
+	margin:45px 30px;
 	padding:100px 10px;
 }
 
