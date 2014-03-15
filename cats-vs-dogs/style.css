@@ -32,7 +32,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: normal;
 }
 ol, ul {
 	list-style: none;
@@ -40,6 +40,30 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 }
+
+h2{ font-weight: bolder;
+	font-size: x-large;
+	font-family: serif;
+	padding: 0px;
+	padding-top: 0px;
+	margin: opx;
+	 }
+
+p { padding:0px;
+	padding-top:15px;
+	margin:0px;
+	font-family: serif;
+	font-size: small;
+}
+img { float: left;
+	  height: 100%;
+	  width: 100%;
+	  padding-top: 0px;
+	  padding-left: 0px;
+	  padding-right: 0px;
+	  padding-bottom: 20px;
+}
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
