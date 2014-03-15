@@ -64,6 +64,19 @@ img { float: left;
 	  padding-bottom: 20px;
 }
 
+footer {
+	clear: both;
+	font-size: small;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, p {
+	quotes: none;
+}
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
