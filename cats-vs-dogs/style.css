@@ -112,3 +112,98 @@ html[xmlns] .clearfix { display: block; }
 
 /*END OF THE RESET*/
 
+h1 {text-align: center;
+        font-size: 100px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-weight: bolder;
+        font-family: "League Gothic";
+      }
+
+#nav {
+      display: block;
+      width: 100%;
+      border-top-width: 2px;
+      border-bottom-width: 2px;
+      border-top-style: solid;
+      border-bottom-style: solid;
+      text-align: center;
+    }
+
+#nav ul {display:block;
+      margin-right: auto;
+      margin-left: auto;
+      width: 900px;
+}
+
+ #nav li {display: inline;
+          list-style: none;
+          float: left;
+          font-family: serif;
+          font-size: x-large;
+          font color: black;
+          text-transform: uppercase;
+          text-align: center;
+          font-weight: bold;
+          padding:5px;
+          padding-left: 20px;
+          padding-right: 20px
+       }
+
+    #puppy img {
+      width: 40%;
+      padding-top: 15px;
+      padding-left: 15px;
+      padding-bottom: 15px;
+      float: left;
+      clear: left;
+    }
+
+    #puppy h2 { width: 45%;
+      padding-top: 15px;
+      padding-left: 15px;
+      padding-bottom: 15px;
+      float: left;
+      clear: left;
+
+    }
+
+    #puppy p { width: 45%;
+      padding-top: 15px;
+      padding-left: 15px;
+      padding-bottom: 15px;
+      float: left;
+      clear: left;
+      
+    }
+    #cat img {
+      width: 40%;
+      padding-top: 15px;
+      padding-right: 15px;
+      padding-bottom: 15px;
+      float: right;
+      clear: right;
+    }
+ #cat h2 {
+      width: 45%;
+      padding-top: 15px;
+      padding-right: 15px;
+      padding-bottom: 15px;
+      float: right;
+      clear: right;
+    }
+ #cat p {
+      width: 45%;
+      padding-top: 15px;
+      padding-right: 15px;
+      padding-bottom: 15px;
+      float: right;
+      clear: right;
+    }
+
+  #footer {
+    width: 100%;
+    border-top-style: solid;
+    padding-top: 10px;
+    border-top-width: 2px;
+  }
