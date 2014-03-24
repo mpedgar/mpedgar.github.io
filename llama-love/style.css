@@ -90,8 +90,13 @@ h2 {
 }
 
 
+#leftllama {
+        float:left;
+  }
 
-
+      #rightllama {
+        float:left;
+      }
 
 
 
