@@ -150,7 +150,7 @@ h1 {text-align: center;
           padding-right: 20px
        }
 
-    #puppy img {
+    #dog img {
       width: 40%;
       padding-top: 15px;
       padding-left: 15px;
@@ -159,7 +159,7 @@ h1 {text-align: center;
       clear: left;
     }
 
-    #puppy h2 { width: 45%;
+    #dog h2 { width: 45%;
       padding-top: 15px;
       padding-left: 15px;
       padding-bottom: 15px;
@@ -168,7 +168,7 @@ h1 {text-align: center;
 
     }
 
-    #puppy p { width: 45%;
+    #dog p { width: 45%;
       padding-top: 15px;
       padding-left: 15px;
       padding-bottom: 15px;
