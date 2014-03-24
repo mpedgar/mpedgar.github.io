@@ -170,14 +170,14 @@ h1 {text-align: center;
 
     #dog p { width: 45%;
       padding-top: 15px;
-      padding-left: 15px;
+      padding-left: 20px;
       padding-bottom: 15px;
       float: left;
       clear: left;
       
     }
     #cat img {
-      width: 45%;
+      width: 40%;
       padding-top: 15px;
       padding-right: 15px;
       padding-bottom: 15px;
@@ -195,7 +195,7 @@ h1 {text-align: center;
  #cat p {
       width: 45%;
       padding-top: 15px;
-      padding-right: 15px;
+      padding-right: 20px;
       padding-bottom: 15px;
       float: right;
       clear: right;
