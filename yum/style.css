@@ -89,3 +89,10 @@ ul {list-style: none;
 	}
 
 h2 {font-family: sans-serif;}
+
+ol {font-family: sans-serif;
+	line-height: 18px;
+	list-style-type: none;
+	margin-bottom: 10px;
+	font-size: 14px;
+}
