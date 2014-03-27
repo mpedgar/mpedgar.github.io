@@ -56,9 +56,16 @@ table {
 h1 {
 	text-align: left;
 	font-family: sans-serif;
-	color: #6C9023;
+	color: #B6C891;
 	margin-bottom: 10px;
 	margin-top: 5px;
+	font-style: bold;
+	font-size: 25px;
+}
+
+h3 {font-size: 14px;
+	font-family: sans-serif;
+	font-style: italic;
 }
 
 
