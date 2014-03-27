@@ -73,3 +73,10 @@ p { padding-bottom:10px;
 	padding-right: 15%;
 	font-family: sans-serif;
 	font-size: 15px}
+
+img {display: block;
+	margin-right: auto;
+	margin-left: auto;
+	
+
+}
