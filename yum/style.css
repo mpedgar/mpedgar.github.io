@@ -53,4 +53,13 @@ table {
 
 /* END RESET */
 
+h1 {
+	text-align: left;
+	font-family: sans-serif;
+	color: #6C9023;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+
 
