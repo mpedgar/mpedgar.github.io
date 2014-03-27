@@ -55,7 +55,7 @@ h1 { font-size:70px;
 	font-weight:bold; 
 	color:#A0E6CE; 
 	text-align:center; 
-	letter-spacing: 4px;
+	letter-spacing: 3px;
 	margin-top: 6px;
 	margin-bottom: 6px;
 	font-family: sans-serif;
@@ -79,6 +79,9 @@ img {display: block;
 	margin-left: auto;
 	margin-bottom:10px;
 	margin-top: 10px;
+}
 
-
+a:link{text-decoration: none;
+	color:gray;
+	text-align: center;
 }
