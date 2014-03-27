@@ -51,6 +51,19 @@ table {
 body { font-family:Times; font-size:14px; }
 section#content { margin:0 auto; width:960px; padding:20px 0px; }
 
-h1 { font-size:70px; font-weight:bold; color:light grey; text-align:center; }
-h2 { font-size:36px; font-weight:bold; color:black; text-align:center; }
+h1 { font-size:70px; 
+	font-weight:bold; 
+	color:#B2FFE5; 
+	text-align:center; 
+	letter-spacing: 4px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+	font-family: sans-serif;
+}
+h2 { font-size:40px; 
+	font-weight:bold; 
+	color:black; 
+	text-align:center;
+
+	 }
 p { padding-bottom:10px; }
