@@ -53,6 +53,9 @@ table {
 
 /* END RESET */
 
+body { padding: 50px 50px 50px 50px;
+		}
+
 h1 {
 	text-align: left;
 	font-family: sans-serif;
@@ -77,6 +80,5 @@ p {font-family: sans-serif;
 ul {list-style: none;
 	 margin-bottom:5px;
 	 list-style-type: none;
-	 margin-left: 30px;
 	 padding-left: 50px;
 	}
