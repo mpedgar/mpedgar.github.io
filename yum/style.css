@@ -77,7 +77,7 @@ p {font-family: sans-serif;
 	margin-bottom: 10px;
 }
 
-ul {list-style: none;
+ul {list-style: circle;
 	 margin-bottom:5px;
 	 list-style-type: none;
 	 padding-left: 50px;
@@ -95,5 +95,5 @@ ol {font-family: sans-serif;
 	list-style-type: none;
 	margin-bottom: 10px;
 	font-size: 14px;
-	
+
 }
