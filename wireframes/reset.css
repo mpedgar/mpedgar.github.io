@@ -57,7 +57,7 @@ table {
 /* END RESET */
 
 h1 { font-family:sans-serif; text-transform:uppercase; font-size:50px; font-weight:medium; color:white; text-align: center; letter-spacing: 4px; background-color: #2B3137
-; margin-top: 5px; margin-bottom: 25px; }
+; margin-top: 5px; margin-bottom: 25px; width: 80%}
 
 #Wireframes{
 	position:relative;
