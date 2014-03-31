@@ -59,21 +59,27 @@ table {
 h1 { font-family:sans-serif; text-transform:uppercase; font-size:50px; font-weight:bolder; color:#2B3137
 ; text-align: center; letter-spacing: 3px; margin-top: 5px; margin-bottom: 25px;}
 
-#Wireframes{
-	position:relative;
-	width: 100%;
-}
-
-#Wireframes li {
+#first {
 	float: left;
-  display: inline-block;
-  padding: 20px 0px 20px 40px;
+	padding: 40px 30px 20px 40px;
+
 }
 
-img {
-	width:400px;
+#second {
+	float: left;
+	padding: 40px 30px 20px 40px;
+	
 }
 
+#third {
+	float: left;
+	padding: 40px 30px 20px 40px;
+	
+}
+
+#fourth {
+	float: left;
+	padding: 40px 30px 20px 40px;
 
 
-
+}
