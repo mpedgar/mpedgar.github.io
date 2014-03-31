@@ -23,7 +23,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	background-color: black;
+	background-color: white;
 
 
 }
@@ -56,7 +56,8 @@ table {
 
 /* END RESET */
 
-h1 { font-family:sans-serif; text-transform:uppercase; font-size:50px; font-weight:medium; color:white; text-align: center; letter-spacing: 4px; background-color: gray; margin-top: 5px; margin-bottom: 25px; }
+h1 { font-family:sans-serif; text-transform:uppercase; font-size:50px; font-weight:medium; color:white; text-align: center; letter-spacing: 4px; background-color: #2B3137
+; margin-top: 5px; margin-bottom: 25px; }
 
 #Wireframes{
 	position:relative;
@@ -79,4 +80,3 @@ h1 {font-family: sans-serif;
 	text-align: center;}
 
 
-	
