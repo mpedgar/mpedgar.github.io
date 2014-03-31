@@ -66,20 +66,20 @@ h1 { font-family:sans-serif; text-transform:uppercase; font-size:50px; font-weig
 }
 
 #second {
-	float: right;
-	padding: 40px 30px 20px 40px;
+	float: left;
+	padding: 40px 30px 20px 90px;
 	
 }
 
 #third {
 	float: left;
-	padding: 40px 30px 20px 40px;
+	padding: 40px 30px 20px 50px;
 	
 }
 
 #fourth {
 	float: right;
-	padding: 40px 30px 20px 40px;
+	padding: 40px 30px 20px 90px;
 
 
 }
