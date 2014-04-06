@@ -112,6 +112,13 @@ html[xmlns] .clearfix { display: block; }
 
 /*END OF THE RESET*/
 
+.VS{
+  font-family: "Georgia";
+  font-weight: italic;
+  font-weight: bold;
+  font-size: 75px;
+}
+
 h1 {text-align: center;
         font-size: 100px;
         padding-top: 15px;
@@ -151,6 +158,8 @@ nav li {
   font-color: black;
     
   }
+
+  #dog 
 
     #dog img {
       width: 40%;
