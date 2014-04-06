@@ -145,7 +145,7 @@ nav ul{display: block;
 
 nav li { 
   display: inline;
-    list-style:none;
+  list-style:none;
   float:left;
   padding: 5px;
   padding-left: 20px;
@@ -156,8 +156,7 @@ nav li {
   font-size: x-large;
   font-weight: bold;
   font-color: black;
-    
-  }
+    }
 
   #dog {
     clear: left;
@@ -178,11 +177,11 @@ nav li {
   }
     
 
-#post_footer {
+footer {
   width: 100%;
   padding-top: 10px;
-  border-top-width: 2px;
-  border-top-style: solid;
+  border-top: 3px;
+  border-top: solid;
   position: absolute;
   bottom: 0px;
   clear: both;
