@@ -125,9 +125,9 @@ body {margin: 0 auto;
 }
 
 #page {float: left;
-        width: 30%;
+        width: 35%;
         margin: 20px 10px;
-        padding: 10px 10px 10px 200px;
+        padding: 10px 10px 10px 150px;
       }
 
 #page h1 {text-transform: uppercase;
