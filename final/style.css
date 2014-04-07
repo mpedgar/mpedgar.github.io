@@ -117,5 +117,10 @@ h1 {
 	font-family: "League Gothic";
 	text-transform: uppercase;
 	text-align: center;
+	font-size: 40px;
+}
+
+#first {
+	width:70%;
 }
 
