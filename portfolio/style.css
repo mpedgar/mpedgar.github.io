@@ -121,7 +121,7 @@ html[xmlns] .clearfix { display: block; }
 
 }
 
-#h1 {font-family: sans-serif;
+h1 {font-family: sans-serif;
 	font-size: 40px;
 	text-transform: uppercase;
 	padding-left: 10px;
