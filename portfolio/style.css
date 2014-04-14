@@ -121,4 +121,8 @@ html[xmlns] .clearfix { display: block; }
 
 }
 
+.SERIES {float: left;
+		color: black;
+		height: auto;
+}
 
