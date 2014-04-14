@@ -112,11 +112,12 @@ html[xmlns] .clearfix { display: block; }
 
 /*END OF THE RESET*/
 
-.HOMEPAGEPHOTO {width: 45%;
+.HOMEPAGEPHOTO {width: 65%;
 				float: right;
-				padding-left: 30px;
+				padding-left: 15px;
 				padding-bottom: 15 px;
 				padding-top: 20px;
+				padding-right: 5px;
 
 }
 
