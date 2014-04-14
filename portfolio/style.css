@@ -112,7 +112,7 @@ html[xmlns] .clearfix { display: block; }
 
 /*END OF THE RESET*/
 
-.HOMEPAGEPHOTO {width: 85%;
+.HOMEPAGEPHOTO {width: 80%;
 				height: auto;
 				float: right;
 				padding-left: 25px;
@@ -123,7 +123,7 @@ html[xmlns] .clearfix { display: block; }
 				}
 
 h1 {font-family: "league gothic";
-	font-size: 60px;
+	font-size: 40px;
 	text-transform: uppercase;
 	padding-left: 20px;
 	padding-top: 20px;
@@ -139,7 +139,7 @@ h1 {font-family: "league gothic";
 
 #nav ul {list-style: none;
 	padding-left: 20px;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 #nav li {list-style: none;
