@@ -143,4 +143,11 @@ h1 {font-family: "league gothic";
 	color: gray;
 }
 
-
+#nav li {list-style: none;
+	padding-left: 20px;
+	text-transform: uppercase;
+	font-family:"league gothic";
+	color: black;
+	font-size: 40px;
+	text-decoration: none;
+	color: gray;}
