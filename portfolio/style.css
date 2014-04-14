@@ -118,7 +118,7 @@ html[xmlns] .clearfix { display: block; }
 				padding-bottom: 50px;
 				padding-top: 0px;
 				padding-right: 15px;
-				position: relative;
+				position: absolute;
 				}
 
 h1 {font-family: "league gothic";
