@@ -112,4 +112,10 @@ html[xmlns] .clearfix { display: block; }
 
 /*END OF THE RESET*/
 
+.HOMEPAGEPHOTO {width: 75%;
+				position: absolute;
+				float: right;
+
+}
+
 
