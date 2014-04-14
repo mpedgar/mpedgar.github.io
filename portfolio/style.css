@@ -114,6 +114,9 @@ html[xmlns] .clearfix { display: block; }
 
 .HOMEPAGEPHOTO {width: 45%;
 				float: right;
+				padding-left: 30px;
+				padding-bottom: 15 px;
+				padding-top: 20px;
 
 }
 
