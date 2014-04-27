@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+	<title>Mike Zaia's Homepage</title>
+	<link rel="stylesheet" type="text/css" href="style.css" media="screen">
+</head>
+<body>
+<nav id="nav" class="clearfix">
+	<h1>MIKE ZAIA</h1>
+	<aside>
+	<ul>
+		<li>
+			<a href="series.html">series</a>
+				<ul>
+					<li>Dérive</li>
+					<li>Interior</li>
+					<li>Light</li>
+					<li>New York</li>
+				</ul></li>
+		<li>
+			<a href="about.html">about</a></li>
+		<li>
+			<a href="contact.html">contact</a></li>
+		<li>
+			<a href="http://martyrimmortal.tumblr.com/tagged/myphotos"</article>blog</li>	
+	</ul>
+	</aside>
+</nav>
+<article id="photo">
+	<div class="HOMEPAGEPHOTO">
+		<img src="http://31.media.tumblr.com/82f70eebcd9a4b94b0da901413554b0e/tumblr_mmrl642FBo1qdv4dgo1_1280.jpg" alt="parking"></img>
+	</div>	
+	</article>
+</body>
+</html>
+
