@@ -112,43 +112,40 @@ html[xmlns] .clearfix { display: block; }
 
 /*END OF THE RESET*/
 
-.HOMEPAGEPHOTO {width: 75%;
+.HOMEPAGEPHOTO {width: 80%;
+				height: auto;
 				float: right;
 				padding-left: 25px;
 				padding-bottom: 50px;
-				padding-top: 8px;
+				padding-top: 15px;
 				padding-right: 15px;
 				position: relative;
+				height: 40%
 				}
 
-h1 {font-family: sans-serif;
-	font-size: 40px;
+h1 {font-family: "league gothic";
+	font-size: 60px;
 	text-transform: uppercase;
 	padding-left: 20px;
-	padding-top: 20px;
-	background-color: black;
-	color: white;
+	padding-top: 0px;
+	position: relative;
 
 }
 
 #nav {padding-left: 20px;
+	position: absolute;
+	padding-top: 0px;
 
+}
+
+#nav ul {list-style: none;
+	padding-left: 20px;
+	font-size: 25px;
 }
 
 #nav li {list-style: none;
-	padding-left: 20px;
 	text-transform: uppercase;
-	font-family: sans-serif;
+	font-family:"league gothic";
 	color: black;
-}
-
-.content{float: right;}
-
-
-h2{font-family: sans-serif;
-	font-size: 25px;
-
-}
-
-img {float: right;
-	  width: 75%;}
+	text-decoration: none;
+	color: gray;}
