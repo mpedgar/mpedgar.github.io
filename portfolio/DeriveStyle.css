@@ -145,5 +145,7 @@ h1 {font-family: sans-serif;
 .content{float: right;}
 
 
-
-
+#derivephotos{
+	width: 400
+	height: 620;
+}
