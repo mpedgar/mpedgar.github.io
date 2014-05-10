@@ -150,8 +150,11 @@ h1 {font-family: "league gothic";
 	text-decoration: none;
 	color: gray;}
 
-#derivecollection {
-	width: 54%;
+img {
 	float: right; 
-	position: absolute;
+	width: 60%;
+	height: auto;
+	padding-top: 15px;
+	padding-right: 15px;
+
 }

@@ -141,6 +141,8 @@ h1 {font-family: "league gothic";
 #nav ul {list-style: none;
 	padding-left: 20px;
 	font-size: 25px;
+	text-decoration: none;
+	color: black;
 }
 
 #nav li {list-style: none;
@@ -148,4 +150,6 @@ h1 {font-family: "league gothic";
 	font-family:"league gothic";
 	color: black;
 	text-decoration: none;
-	color: gray;}
+	color: gray;
+	list-style: none;}
+
