@@ -153,3 +153,13 @@ h1 {font-family: "league gothic";
 	list-style: none;
 	text-decoration: none;}
 
+#contact {text-transform: uppercase;
+	font-family:"league gothic";
+	color: black;
+	float:left;
+	margin-left: 200px;
+	position: relative;
+	padding-left: 50px;
+	padding-top: 10px;
+	top: 110px;
+	left:30px;}

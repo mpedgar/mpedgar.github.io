@@ -143,19 +143,50 @@ h1 {font-family: "league gothic";
 	font-size: 25px;
 }
 
-#nav li {list-style: none;
+#nav li {list-style-type: none;
 	text-transform: uppercase;
 	font-family:"league gothic";
 	color: black;
 	text-decoration: none;
-	color: gray;}
+	color: black;}
 
 
-h2 {float:right;
+h2 {float:left;
 	font-family: "league gothic";
 	font-size: 30px;
+	padding-top: 0px;
+	padding-left: 50px;
+	margin-left: 200px;
+	position: relative;
+	padding-left: 50px;
+	margin-left: 200px;
+	position: absolute;
+	top: 70px;
+	left: 30px;
+	width: 200px;
+	}
+
+p {float: left;
+	font-family: sans-serif;
+	font-style: italic;
+	width: 300px;
+	font-size: 15px;
+	padding-top: 10px;
+	position: relative;
+	padding-left: 50px;
+	margin-left: 200px;
+	position: absolute;
+	top: 110px;
+	left: 30px;
+
 	}	
 
-p {float: right;
-	font-family: sans-serif;
-	}	
+img {float: right; 
+	position: relative;
+	padding-left: 150px;
+	margin-left: 550px;
+	position: absolute;
+	top: 110px;
+	left: 30px;
+	width: 60%;}
+	
