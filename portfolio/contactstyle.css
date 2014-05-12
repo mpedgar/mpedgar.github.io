@@ -163,3 +163,15 @@ h1 {font-family: "league gothic";
 	padding-top: 10px;
 	top: 110px;
 	left:30px;}
+
+a:link {color:black;
+		text-decoration: none;
+	}
+	a:visited {color:black;
+		text-decoration: none;
+	}
+	a:hover {color:white;
+		text-decoration: none;
+	}
+
+
